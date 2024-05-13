@@ -1,1 +1,6 @@
 .idea
+node_modules
+.env
+!images/.gitkeep
+/Github_info.txt
+/reserveserver.js
