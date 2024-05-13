@@ -1,7 +1,7 @@
 {
   "name": "manuel_francisco_6_portfolio_architecte_sophie_bluel_25_06_2023",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "Backend/app.js",
   "dependencies": {
     "chokidar": "^3.6.0",
     "debug": "^4.3.4",
