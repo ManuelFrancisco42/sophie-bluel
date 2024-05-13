@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server",
     "dev": "nodemon server",
-    "build": "mpm i",
+    "build": "npm i",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
